@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Me chamo Ederson Ribeiro Silva 😄</h1>
-<h3>Sou desenvolvedor, atuando no mercado desde 2017, mas iniciei no desenvolvimento web em 2019. Atualmente programo majoritariamente em PHP e TypeScript, mas estou sempre disposto a novos desafios. Tenho me dedicado diariamente a adquirir conhecimentos na área de programação e também na área de arquitetura de sistemas e soluções.</h3>
+<h3>Sou desenvolvedor, atuando no mercado desde 2017, sempre disposto a novos desafios. Tenho me dedicado diariamente a adquirir conhecimentos na área de programação e também na área de arquitetura de sistemas e soluções.</h3>
 <hr>
 
 - 🎓 Formado em Sistemas de Informação pelo Instituto Federal Fluminense em 2017
